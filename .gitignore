@@ -1,0 +1,9 @@
+#ui
+/trips-ui/node_modules
+/trips-ui/package-lock.json
+
+#server
+labyrinth_server/target/
+labyrinth_server/.idea
+
+.idea
